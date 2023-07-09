@@ -26,3 +26,5 @@ zsh
 
 # Echo the message to the user
 echo "af-magic is now your default theme, set by af-magic-auto!"
+
+#ask to clear the terminal 
