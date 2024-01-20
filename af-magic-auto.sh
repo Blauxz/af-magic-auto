@@ -1,16 +1,16 @@
 #!/bin/bash
 
 # Update package lists
-sudo apt update
+apt update
 
 # Install Git with the -y option
-sudo apt install -y git
+apt install -y git
 
 # Check the installed Git version
 git --version
 
 # Install Zsh with the -y option
-sudo apt install -y zsh
+apt install -y zsh
 
 # Check the installed Zsh version
 zsh --version
