@@ -4,4 +4,4 @@ This contraption came from my frustrations of having to repeat those commands ov
 
 
 First install zsh: apt install zsh -y
-Thens imply run: sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" in your 
+Thens imply run: sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" in your terminal.
